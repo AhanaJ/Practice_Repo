@@ -1,2 +1,2 @@
 # Practice_Repo
-This is a practice repository for git.
+This is a practice java repository for git.
